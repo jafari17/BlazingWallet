@@ -1,0 +1,20 @@
+﻿@page "/Ticker"
+@inject HttpClient _Http
+<h3>TickerPage</h3>
+
+
+
+<input @bind="name" @onfocusout="OnSubmit">
+@* <InputText id="name" Value="@name" ValueChanged="NameChanged" ></InputText> *@
+@* <button @onclick="OnSubmit">sssss</button> *@
+
+
+
+@if (listNewsCard != null)
+{
+    @foreach (var TP in listNewsCard)
+    {
+        <p>@TP.MarkPrice</p>
+    }
+
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mbpzXq4upTxxOnuz2DuHf4QeOF/zTH1zTpi/nsS96EU=",
+  "Source": "BlazingWallet.Server",
+  "BasePath": "_content/BlazingWallet.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

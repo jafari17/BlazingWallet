@@ -1,0 +1,11 @@
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\bin\Debug\net8.0\BlazingWallet.Shared.deps.json
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\bin\Debug\net8.0\BlazingWallet.Shared.dll
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\bin\Debug\net8.0\BlazingWallet.Shared.pdb
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\BlazingWallet.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\BlazingWallet.Shared.AssemblyInfoInputs.cache
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\BlazingWallet.Shared.AssemblyInfo.cs
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\BlazingWallet.Shared.csproj.CoreCompileInputs.cache
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\BlazingWallet.Shared.dll
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\refint\BlazingWallet.Shared.dll
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\BlazingWallet.Shared.pdb
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Shared\obj\Debug\net8.0\ref\BlazingWallet.Shared.dll
