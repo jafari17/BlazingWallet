@@ -128,3 +128,4 @@ C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Server\
 C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Server\obj\Debug\net8.0\BlazingWallet.Server.pdb
 C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Server\obj\Debug\net8.0\BlazingWallet.Server.genruntimeconfig.cache
 C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Server\obj\Debug\net8.0\ref\BlazingWallet.Server.dll
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet.Server\obj\Debug\net8.0\BlazingWallet.Server.sourcelink.json

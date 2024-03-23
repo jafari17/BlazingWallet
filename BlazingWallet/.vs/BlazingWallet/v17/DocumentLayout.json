@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet.server\\controllers\\privatewalletderibitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|solutionrelative:blazingwallet.server\\controllers\\privatewalletderibitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet.server\\controllers\\publicapideribit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|solutionrelative:blazingwallet.server\\controllers\\publicapideribit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet\\pages\\tickerpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|solutionrelative:blazingwallet\\pages\\tickerpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet\\pages\\tickerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|solutionrelative:blazingwallet\\pages\\tickerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|solutionrelative:blazingwallet\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|solutionrelative:blazingwallet\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet.server\\blazingwallet.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{42A8C231-FD51-4CED-871B-0AB4CA4ACDB2}|BlazingWallet.Server\\BlazingWallet.Server.csproj|solutionrelative:blazingwallet.server\\blazingwallet.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet\\pages\\tickerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|solutionrelative:blazingwallet\\pages\\tickerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet\\pages\\tickerpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F46056E-2197-479C-8802-B8E1E176D1D8}|BlazingWallet\\BlazingWallet.csproj|solutionrelative:blazingwallet\\pages\\tickerpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{259F5ED9-237B-47CD-B1F6-60B85FFB07E4}|BlazingWallet.Shared\\BlazingWallet.Shared.csproj|c:\\users\\red\\documents\\githubp\\blazingwallet\\blazingwallet\\blazingwallet.shared\\models\\deribittickerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,8 +94,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlazingWallet",
+              "DocumentIndex": 0,
+              "Title": "PrivateWalletDeribitController.cs",
+              "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\PrivateWalletDeribitController.cs",
+              "RelativeDocumentMoniker": "BlazingWallet.Server\\Controllers\\PrivateWalletDeribitController.cs",
+              "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\PrivateWalletDeribitController.cs",
+              "RelativeToolTip": "BlazingWallet.Server\\Controllers\\PrivateWalletDeribitController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:33:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazingWallet\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazingWallet\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T07:16:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlazingWallet.csproj",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\BlazingWallet.csproj",
               "RelativeDocumentMoniker": "BlazingWallet\\BlazingWallet.csproj",
               "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\BlazingWallet.csproj",
@@ -95,46 +133,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Program.cs",
               "RelativeDocumentMoniker": "BlazingWallet.Server\\Program.cs",
               "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Program.cs",
               "RelativeToolTip": "BlazingWallet.Server\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAABZwAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T12:51:00.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "TickerPage.razor.cs",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Pages\\TickerPage.razor.cs",
               "RelativeDocumentMoniker": "BlazingWallet\\Pages\\TickerPage.razor.cs",
               "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Pages\\TickerPage.razor.cs",
               "RelativeToolTip": "BlazingWallet\\Pages\\TickerPage.razor.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T12:48:33.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TickerPage.razor",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Pages\\TickerPage.razor",
               "RelativeDocumentMoniker": "BlazingWallet\\Pages\\TickerPage.razor",
               "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Pages\\TickerPage.razor",
               "RelativeToolTip": "BlazingWallet\\Pages\\TickerPage.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-22T12:48:23.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "PublicApiDeribit.cs",
+              "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
+              "RelativeDocumentMoniker": "BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
+              "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
+              "RelativeToolTip": "BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:21:55.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazingWallet\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazingWallet\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T07:16:25.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DeribitTickerDto.cs",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Shared\\Models\\DeribitTickerDto.cs",
               "RelativeDocumentMoniker": "BlazingWallet.Shared\\Models\\DeribitTickerDto.cs",
@@ -147,33 +211,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PublicApiDeribit.cs",
-              "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
-              "RelativeDocumentMoniker": "BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
-              "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
-              "RelativeToolTip": "BlazingWallet.Server\\Controllers\\PublicApiDeribit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T12:21:55.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "BlazingWallet.Server\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "BlazingWallet.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABOwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T12:24:46.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "WalletDbContext.cs",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\DbContexts\\WalletDbContext.cs",
               "RelativeDocumentMoniker": "BlazingWallet.Server\\DbContexts\\WalletDbContext.cs",
@@ -181,24 +232,25 @@
               "RelativeToolTip": "BlazingWallet.Server\\DbContexts\\WalletDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T12:53:39.232Z"
+              "WhenOpened": "2024-03-22T12:53:39.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BlazingWallet.Server.csproj",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\BlazingWallet.Server.csproj",
               "RelativeDocumentMoniker": "BlazingWallet.Server\\BlazingWallet.Server.csproj",
               "ToolTip": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\BlazingWallet.Server.csproj",
               "RelativeToolTip": "BlazingWallet.Server\\BlazingWallet.Server.csproj",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAABEwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-22T11:53:54.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\appsettings.json",
               "RelativeDocumentMoniker": "BlazingWallet.Server\\appsettings.json",
@@ -206,11 +258,12 @@
               "RelativeToolTip": "BlazingWallet.Server\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T13:06:07.057Z"
+              "WhenOpened": "2024-03-22T13:06:07.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BlazingWallet.Server\\Properties\\launchSettings.json",
@@ -218,11 +271,12 @@
               "RelativeToolTip": "BlazingWallet.Server\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T13:09:35.94Z"
+              "WhenOpened": "2024-03-22T13:09:35.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\RED\\Documents\\GitHubP\\BlazingWallet\\BlazingWallet\\BlazingWallet\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazingWallet\\Pages\\Home.razor",

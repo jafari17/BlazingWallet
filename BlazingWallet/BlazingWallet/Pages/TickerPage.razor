@@ -4,17 +4,58 @@
 
 
 
-<input @bind="name" @onfocusout="OnSubmit">
+<input @bind="name"  >
+@* <input @bind="name" @onfocusout="OnSubmit"> *@
 @* <InputText id="name" Value="@name" ValueChanged="NameChanged" ></InputText> *@
 @* <button @onclick="OnSubmit">sssss</button> *@
+  
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Dropdown button
+    </button>
+    <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#">Action</a></li>
+        <li><a class="dropdown-item" href="#">Another action</a></li>
+        <li><a class="dropdown-item" href="#">Something else here</a></li>
+    </ul>
+</div>
+
+
+<InputSelect id="name" @bind-Value="name" @onchange="OnSubmit">
+
+    <option value="BTC-27DEC24-60000-C" >BTC-27DEC24-60000-C</option>
+    <option value="BTC-27DEC24-65000-C" >BTC-27DEC24-65000-C</option>
+    <option value="BTC-27DEC24-70000-C" >BTC-27DEC24-70000-C</option>
+   
+</InputSelect>
+
+<button @onclick="OnSubmit">OK</button>
 
 
 
-@if (listNewsCard != null)
-{
-    @foreach (var TP in listNewsCard)
-    {
-        <p>@TP.MarkPrice</p>
-    }
 
-}
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th scope="col">instrument name</th>
+            <th scope="col">mark price</th>
+            <th scope="col">delta</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (listNewsCard != null)
+        {
+            @foreach (var TP in listNewsCard)
+            {
+                <tr>
+                    <td>@TP.InstrumentName</td>
+                    <td>@TP.MarkPrice</td>
+                    <td>@TP.Delta</td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

@@ -19,6 +19,5 @@ namespace BlazingWallet.Pages
 
             var ss = listNewsCard;
         }
-
     }
 }

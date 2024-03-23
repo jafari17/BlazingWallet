@@ -1038,3 +1038,4 @@ C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet\obj\Deb
 C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet\obj\Debug\net8.0\refint\BlazingWallet.dll
 C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet\obj\Debug\net8.0\BlazingWallet.pdb
 C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet\obj\Debug\net8.0\ref\BlazingWallet.dll
+C:\Users\RED\Documents\GitHubP\BlazingWallet\BlazingWallet\BlazingWallet\obj\Debug\net8.0\BlazingWallet.sourcelink.json

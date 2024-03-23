@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazingWallet",
   "resources": {
-    "hash": "sha256-EJMwcdTycuyfEkvdFMQA1AHfjcI+z7U1ZmPEevKgXPw=",
+    "hash": "sha256-wA/FEjXaJSqUiTggt0R0wMHWgLMIPAgJEVWgL7bD3+g=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.uvek90s3jt.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -209,11 +209,11 @@
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
       "BlazingWallet.Shared.wasm": "sha256-tZvS/lyN4OK0MJcsSdaBqFuX4koHQn7sZN8Xt9uC1x4=",
-      "BlazingWallet.wasm": "sha256-gThvsIwuggiptzVemNRh2wcJ+tXuhCobLDvRs1ebo+Q="
+      "BlazingWallet.wasm": "sha256-/J2V1IGHBr7AaaFC1P8L5Ss/Y6cqVwL1TwsSRkbISME="
     },
     "pdb": {
       "BlazingWallet.Shared.pdb": "sha256-R9tr7o1DzeK20eGU9nlMNcFIvCxX+s7wTlJ8IJ1noxU=",
-      "BlazingWallet.pdb": "sha256-fhb+z4fId0brSJJxxjCjtSgk74ktJxIhwUIPZszBxww="
+      "BlazingWallet.pdb": "sha256-spKfqX5k525qc8dZQEh+y//jqHu908ZhgWq+H7lhrXs="
     }
   },
   "cacheBootResources": true,

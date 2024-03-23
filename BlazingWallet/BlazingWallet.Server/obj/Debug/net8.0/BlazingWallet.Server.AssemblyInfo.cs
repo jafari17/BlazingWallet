@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazingWallet.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0fed13433e14cc3472bb3102f52f2d32b0361c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5364b71784719890da8f71a7317f9061c3a7fef")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingWallet.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingWallet.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
